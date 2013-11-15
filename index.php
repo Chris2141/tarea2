@@ -114,7 +114,7 @@ echo "$vector[$numero]";
 				<article>
                 <div id="khryz"> </div>
 				<font color="blue" size="4"> 
-                 <time> 07-06-2013 </time>
+                 
                      <h3> Christopher Salvatierra Lagos </h3>
                     <h4> Alumno de Ingenieria Civil en Computacion</h4>
                     <p> 
